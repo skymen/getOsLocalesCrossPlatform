@@ -1,0 +1,28 @@
+{
+  "name": "getoslocalescrossplatform",
+  "version": "1.0.0",
+  "description": "A cross platform alternative to get locales used on the platform. Works on Node, Electron, NW.js and Browsers",
+  "main": "getOsLocalesCrossPlatform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skymen/getOsLocalesCrossPlatform.git"
+  },
+  "keywords": [
+    "os",
+    "locale",
+    "cross",
+    "platform",
+    "language",
+    "languages",
+    "locales"
+  ],
+  "author": "skymen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skymen/getOsLocalesCrossPlatform/issues"
+  },
+  "homepage": "https://github.com/skymen/getOsLocalesCrossPlatform#readme"
+}
