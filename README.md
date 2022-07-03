@@ -37,3 +37,5 @@ import getOsLocales from "./getOsLocalesCrossPlatform.js";
 ```
 
 Or by executing the content of the file and using the global function `getOsLocales()` it creates on the global scope.
+
+Look at examples in the `examples` folder for common use cases
